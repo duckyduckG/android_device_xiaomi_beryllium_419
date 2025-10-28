@@ -27,7 +27,6 @@ vendor/etc/tas2559_l.ftcfg
 vendor/etc/tas2559_r.ftcfg
 
 # Audio
-vendor/lib/libacdbloader.so
 vendor/lib/libcsd-client.so;DISABLE_DEPS
 
 # Camera
